@@ -1,15 +1,3 @@
----
-
-title: Voice Notes AI
-emoji: 🎤
-colorFrom: blue
-colorTo: purple
-sdk: gradio
-sdk_version: "5.34.0"
-app_file: app.py
-pinned: false
--------------
-
 # Voice Notes AI
 
 A speech-to-text application powered by Whisper AI.
